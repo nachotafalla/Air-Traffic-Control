@@ -1,6 +1,7 @@
 # Air Traffic Control
 
 #### Video Demo: https://drive.google.com/file/d/18gXRZaoK89c7Phy1pobEfeIxZjyoX_P-/view?usp=sharing
+#### Timelapse of me writing the code: https://drive.google.com/file/d/1jE4-mZ4ypXZiU4pv7NHHhe3N8s_7Z5cG/view?usp=sharing
 
 ## Project Overview
 
